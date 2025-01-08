@@ -28,7 +28,7 @@
         </div>
 
     </section>
-    <section class="relative h-screen container py-32">
+    {{-- <section class="relative h-screen container py-32">
         loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet loremipsum dolor situ amet
-    </section>
+    </section> --}}
 </x-app-layout>

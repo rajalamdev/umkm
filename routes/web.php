@@ -10,7 +10,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\AdminController;
 
 
-// Route::get('/', fn () => view('welcome'))->name('dashboard');
+Route::get('/about', fn () => view('about'));
 // Route::get('/', action: Controllers\HomeController::class);
 Route::get('/',[HomeController::class,'index'])->name('dashboard');
 Route::get('/products', action: Controllers\ProductsController::class);

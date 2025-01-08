@@ -13,6 +13,7 @@
         @endisset
     </title>
 
+    
     @vite('resources/css/app.css')
 </head>
 
